@@ -1,0 +1,47 @@
+TEORIA SOBRE PROCESSOS
+======================
+
+
+O QUE É UM PROCESSO?
+
+Processo é a sequência de valores agregados (materiais/informações) que resultam no produto/serviço final (interno ou externo). Representa o método de organização do trabalho.
+
+
+PADRÕES UTILIZADOS
+
+Os padrões que podem ser usados se encontram na pasta do time de Processos no Sharepoint. Entre eles:
+
+- Organograma
+- DEIP (Diagrama de Escopo e Interfaces do Processo)
+- Fluxograma
+- Procedimento Operacional Padrão (também pode ser chamado de Instrução de Trabalho)
+- Matriz de stakeholders
+- SIPOC
+- Plano de Ação
+- Pareto
+- Ishikawa
+- 5 por quês
+
+
+MACRO ETAPAS DO MAPEAMENTO DE PROCESSOS
+
+O mapeamento de processos segue as seguintes macro etapas:
+
+1. Mapeamento AS IS
+2. Mapeamento TO BE
+3. Plano de melhorias e governança
+4. Matriz de esforço x impacto
+5. Plano de treinamento
+6. Lições aprendidas
+
+
+PERGUNTAS FREQUENTES:
+
+P: Quais são as etapas de mapeamento?
+R: As etapas de mapeamento de processos são: Mapeamento AS IS, Mapeamento TO BE, Plano de melhorias e governança, Matriz de esforço x impacto, Plano de treinamento, e Lições aprendidas.
+
+P: O que é um processo?
+R: Processo é a sequência de valores agregados que resultam no produto/serviço final, representando o método de organização do trabalho.
+
+P: Quais padrões podem ser usados?
+R: Organograma, DEIP, Fluxograma, Procedimento Operacional Padrão, Matriz de stakeholders, SIPOC, Plano de Ação, Pareto, Ishikawa, e 5 por quês.
